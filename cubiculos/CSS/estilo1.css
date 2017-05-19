@@ -1,0 +1,107 @@
+.row{margin-right: 0px !important;}
+#cerrar{margin-left: 15px;margin-top: 5px;}
+.panel-heading{padding: 10px 15px 0px !important;}
+.fila1{padding: 15px;}
+.clearfix{visibility: hidden;}
+header{
+    background-color: #006633;
+    text-align: center;    
+}
+
+#imgheader{
+    margin-top: -6px;
+    padding: 15.6px;
+    margin-right: 60%;
+}
+
+#tittle1{    
+    font-family: "Times New Roman";
+    color: white;    
+    text-align: end;
+    font-size: 22px !important;
+}
+.contentmenu{
+    
+    width: auto;    
+}
+
+#reemplazar{
+   
+    width: 80%;
+    
+    margin-left: 10%;
+    
+}
+
+img#fondo{
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+.menu{
+    padding: 9px !important; 
+}
+
+a#menu1{
+    color: #343534 !important;
+    background-color: #F3F5F4;
+    padding: 10px;
+    border: solid 1px #505050;
+}
+
+li a:hover{
+    background: #BEBEBE !important;
+}
+
+h5#bienvenido{
+    margin-top: 15px;
+    color: black;
+    font-family: "time new roman";
+}
+
+.boton{
+    margin-left: 25%;
+    background-color: #169BD5;
+    height: 15px;
+    margin-top: -17px;
+}
+
+p#sesion{
+    
+    margin-top: -5px;
+    font-size: 11px;
+}
+
+#menucontent{
+    border: solid 1px #ccc;
+    height: 64px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: #A1A1A1;
+}
+
+img#fondo{
+   width: 100%;
+}
+
+footer{
+    margin-bottom: 10px;
+    border-bottom: solid 5px #ccc;
+    width: 60%;
+    margin-left: 20%;
+}
+
+p#footer{
+    font-family: "time new roman";
+    font-size: 20px;
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+}
+#fotor1{
+    font-family: "time new roman";
+    text-align: center;
+    color:white;
+}

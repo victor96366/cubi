@@ -1,0 +1,70 @@
+body{
+    background-color: #E8E7E7 !important;
+}
+
+h4{
+    margin-right: 19.8%;
+    font-family: "time new roman" !important;
+}
+
+.content{
+    border: solid 1px #ccc;
+    width: 100% !important;
+    text-align: center;
+    
+}
+
+p#validar{
+    font-size: 15px;
+    margin-top: -5px;
+}
+
+button#validar{
+    height: 28px;
+    margin-top: 10px;
+    
+}
+
+button#registrar{
+    height: 28px;
+    margin-top: 10px;
+    margin-top: 20px;
+}
+.cajacontenido{
+    background-color: white;
+    height: 300px;
+    margin-left: 17%;
+    margin-top: 10px;
+    
+}
+
+.datos2{
+    border: solid 1px #ccc;
+    padding: 5px;
+    margin-left: 3% !important;
+    margin-top: 5%;
+    width: auto !important;
+    font-family: "time new roman";
+    margin-top: 8%;
+}
+
+#buttonregistrar{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#contenedordatos2{
+    border-bottom: solid 3px #ccc;
+    width: 100%;
+    height: 40%;
+    margin-top: -3.5%;
+}
+
+#abajo3{
+    float: left;
+    width: auto;
+    margin-top: 2.5%;
+    margin-left: 20% !important;
+}
+

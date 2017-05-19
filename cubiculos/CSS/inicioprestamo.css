@@ -1,0 +1,109 @@
+body{
+    background-color: #E8E7E7 !important;
+}
+
+h4{
+    margin-right: 19.8%;
+    font-family: "time new roman" !important;
+}
+
+.content{
+    margin-left: 0px !important;
+    border: solid 1px #ccc;
+    width: 100% !important;
+    text-align: center;
+    
+}
+
+
+p#validar{
+    font-size: 15px;
+    margin-top: -5px;
+}
+
+button#validar{
+    height: 28px;
+    margin-top: 10px;
+    
+}
+
+button#registrar{
+    height: 28px;
+    margin-top: 10px;
+    margin-top: 20px;
+}
+.cajacontenido{
+    background-color: white;
+    height: 300px;
+    margin-left: 17%;
+    margin-top: 10px;
+    
+}
+
+
+
+#buttonregistrar{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#contenedordatos{
+    border-bottom: solid 3px #ccc;
+    width: 100%;
+    height: 40%;
+    margin-top: 5%;
+}
+
+#abajo2{
+    float: left;
+    width: auto;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+#grupoinvestigacion{
+    font-size: 14px;
+    font-family: "time new roman";
+}
+
+input#no-cubiculo{
+    width: 80px;
+}
+
+p#datossiabuc1{
+    font-family: "time new roman";
+    float: left;
+    
+    
+}
+
+p#datossiabuc2{
+    font-family: "time new roman";
+    float: left;
+    
+    
+}
+
+p#datossiabuc3{
+    font-family: "time new roman";
+    float: left;
+    
+    
+}
+
+p#datossiabuc4{
+    font-family: "time new roman";
+    float: left;
+    
+    
+}
+
+#resuldatosiabuc{
+   
+}
+
+.datoss{
+    float: left;
+    width: 15%;
+}
